@@ -1,4 +1,4 @@
-# Project navigation
+# Nikita Svetlov's Projects navigation
 
 _{no.} {title} -- {tech stack} -- {link}_
 
@@ -13,3 +13,5 @@ _{no.} {title} -- {tech stack} -- {link}_
 5. Browser RPG -- CSS3, SASS, JS ES6, React, Redux, RequireJS, Mocha, Chai -- https://github.com/deFarro/browser_rpg
 
 6. Socialboard -- HTML5, CSS3, SASS, JS ES5, React, Redux, Webpack, Gulp, Jest, Enzyme -- https://github.com/deFarro/socialboard
+
+7. Socialboard back-end -- Node.js, Express, Mongoose -- https://github.com/deFarro/socialboard_backend
