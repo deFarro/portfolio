@@ -15,3 +15,7 @@ _{no.} {title} -- {tech stack} -- {link}_
 6. Socialboard -- HTML5, CSS3, SASS, JS ES5, React, Redux, Webpack, Gulp, Jest, Enzyme -- https://github.com/deFarro/socialboard
 
 7. Socialboard back-end -- Node.js, Express, Mongoose -- https://github.com/deFarro/socialboard_backend
+
+8. Let's do it -- HTML5, CSS3, SCSS, JS ES6, React, Redux, Sagas, Webpack, Gulp, Jest, Enzyme -- https://github.com/deFarro/letsdoit
+
+9. "Let's do it" back-end -- Golang, Postgres, Docker -- https://github.com/deFarro/letsdoit_backend
