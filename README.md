@@ -19,3 +19,5 @@ _{no.} {title} -- {tech stack} -- {link}_
 8. Let's do it -- HTML5, CSS3, SCSS, JS ES6, React, Redux, Sagas, Webpack, Gulp, Jest, Enzyme -- https://github.com/deFarro/letsdoit
 
 9. "Let's do it" back-end -- Golang, Postgres, Docker -- https://github.com/deFarro/letsdoit_backend
+
+10. Canvas example -- HTML5, JS ES6 -- https://github.com/deFarro/canvas
